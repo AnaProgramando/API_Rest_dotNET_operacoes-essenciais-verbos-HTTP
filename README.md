@@ -7,7 +7,7 @@
 
 <p align="center">
  <a href="#-welcome">Welcome</a> |
- <a href="#-Sobre">Sobre</a> | 
+ <a href="#%EF%B8%8F-sobre">Sobre</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
@@ -51,7 +51,7 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
 <br><br>
-[⬆ Voltar ao top]() <br>
+[⬆ Voltar ao top](https://github.com/AnaProgramando/API_Rest_dotNET_operacoes-essenciais-verbos-HTTP/tree/main#) <br>
 
 
  <div>
