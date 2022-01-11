@@ -9,6 +9,7 @@
  <a href="#-welcome">Welcome</a> |
  <a href="#%EF%B8%8F-sobre">Sobre</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
+ <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
 
@@ -27,8 +28,17 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 ## 🗒️ Sobre
 
 Nesse projeto será possível entender o que é uma API, como receber requisições na API, conhecer os principais verbos HTTP, se conectar à uma base de dados utilizando o Entity Framework Core, controlar envio e recebimento de informações, usar DTOs para lidar com requisições e respostas, e mapear objetos com AutoMapper.
-
 ## ❓ Dúvidas
+
+Qualquer dúvida, interaja aqui:
+  * Faça perguntas
+  * Dê sugestões de melhoria para o projeto
+  * Compartilhe suas ideias
+  * E interaja sobre o assunto
+
+😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
+
+## ✉️ Contatos
 
 Se precisar de ajuda, entre em contato comigo 😉
 
